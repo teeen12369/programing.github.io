@@ -1,27 +1,3 @@
-/* 
-・ナビゲーションの固定
-    z-index:値;
-・要素の横並びの配置
-    float:値;
-・hover時のカラー変更 
-    :hover{
-      プロパティ:値;
-    }
-*/
-
-* {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-  font-family: "Hiragino Kaku Gothic ProN", sans-serif;
-}
-
-a {
-  text-decoration: none;
-}
-
 h1{
-    font-size:70vw;
+  font-size:100px;
 }
